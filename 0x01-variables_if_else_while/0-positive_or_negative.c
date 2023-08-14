@@ -4,6 +4,8 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+
+/* this function will precise if n is + - or 0 */
 int main(void)
 {
 	int n;
@@ -20,6 +22,7 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
+
 	else
 	{
 		printf("%d is zero\n", n);
