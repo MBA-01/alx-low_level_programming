@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Description: 'printing last digit'
+ *
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int c;
